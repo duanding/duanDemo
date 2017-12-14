@@ -1,6 +1,7 @@
 package cn.wolfcode.wms.domain;
 
 public class Client {
+    //duanding
     private Long id;
 
     private String name;
